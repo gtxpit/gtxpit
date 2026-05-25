@@ -1,11 +1,13 @@
-# 👋 Привет, я Петр!
+# 👋 Привет, я Петр
 
-## 🌟 О себе
+## 🧑‍💻 О себе
 
 Я начинающий **frontend-разработчик** из Новосибирска. Учусь на 2 курсе, но уже на практике разбираюсь в том, что другие только начинают проходить в теории.
 
 - 🔭 Мой главный проект: **[Weather App](https://weather-theta-lilac.vercel.app/weather/)** — реальное веб-приложение с API, геолокацией, избранным и автодеплоем.
-- 🌱 Сейчас изучаю: JavaScript, React, архитектуру веб-приложений.
+- 🌱 Сейчас изучаю: **JavaScript**, **React**, архитектуру веб-приложений.
+- ⚡ Факт: Начал с консольных игр на Node.js, теперь деплою полноценные приложения на Vercel.
+
 ---
 
 ## 🛠️ Технологии и инструменты
@@ -13,6 +15,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -28,26 +31,34 @@
 
 ### 💱 [Currency Converter](https://github.com/gtxpit/currencies)
 Простой конвертер валют с актуальными курсами.
+- **Стек:** HTML, CSS, JS, ExchangeRate API
 
-### 🧠 [Brain Games — Набор логических игр в консоли](https://github.com/gtxpit/frontend-project-44)
-
-5 консольных игр для тренировки ума: чётное/нечётное, калькулятор, НОД, прогрессия, простое число.
-
+### 🧠 [Brain Games](https://github.com/gtxpit/frontend-project-44)
+Набор из 5 консольных игр для тренировки ума.
 - **Стек:** Node.js, JavaScript, ESLint
-- **Навыки:** работа с пользовательским вводом, модульная структура, публикация npm-пакета
-- **Установка:** `make install`, запуск — `brain-calc`, `brain-progression` и др.
-
-🔗 **[Репозиторий](https://github.com/gtxpit/frontend-project-44)**
----
+- **Игры:** чёт/нечет, калькулятор, НОД, прогрессия, простое число
 
 ---
 
-## 🏆 Достижения
+## 📊 Статистика
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gtxpit&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtxpit&layout=compact&theme=dark)
+
+---
+
+## 🏆 Трофеи
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=gtxpit&theme=darkhub&row=1)
 
 ---
 
-### 🧠 Моя философия
+## 🧠 Моя философия
 
-> «Зашквар — ничего не делать и ныть. А я сделал. Горжусь.»
+> **«Зашквар — ничего не делать и ныть. А я сделал. Горжусь.»**
+
+---
+---
+
+*Последнее обновление: 26.05.2026*
