@@ -48,12 +48,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gtxpit&show_icons=true&theme=dark)
 
 ---
-
-## 📫 Как со мной связаться
-
-- GitHub: [github.com/gtxpit](https://github.com/gtxpit)
-- Email: [petr@example.com](mailto:petr@example.com) *(замени на свой реальный email)*
-
 ---
 
 ## 🏆 Достижения
