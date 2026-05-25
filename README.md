@@ -24,7 +24,7 @@
 
 ## 📌 Мои проекты
 
-### 🌤️ [Weather App](https://weather-theta-lilac.vercel.app/weather/)
+### 🌤️ [Weather App](https://github.com/gtxpit/weather)
 Погода и прогноз на 5 дней по городу или геолокации.
 - **Стек:** HTML, CSS, JS, OpenWeatherMap API, LocalStorage, Vite, Vercel
 - **Фичи:** Адаптив, тёмная тема, избранные города, автодеплой.
