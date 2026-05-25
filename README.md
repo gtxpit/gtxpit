@@ -6,9 +6,6 @@
 
 - 🔭 Мой главный проект: **[Weather App](https://weather-theta-lilac.vercel.app/weather/)** — реальное веб-приложение с API, геолокацией, избранным и автодеплоем.
 - 🌱 Сейчас изучаю: JavaScript, React, архитектуру веб-приложений.
-- 👯 Хочу участвовать в open-source проектах.
-- ⚡ Факт: Начал свой путь с консольных чатов на паре в колледже, а теперь деплою свои приложения на Vercel.
-
 ---
 
 ## 🛠️ Технологии и инструменты
@@ -45,7 +42,7 @@
 
 ## 📊 Статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gtxpit&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gtxpit&show_icons=true&theme=dark&count_private=true)
 
 ---
 ---
