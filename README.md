@@ -32,9 +32,15 @@
 ### 💱 [Currency Converter](https://github.com/gtxpit/currencies)
 Простой конвертер валют с актуальными курсами.
 
-### 🤖 [VK AI Bot](https://github.com/gtxpit/vk-ai-bot)
-Бот для ВКонтакте, который отвечает на сообщения через нейросеть.
+### 🧠 [Brain Games — Набор логических игр в консоли](https://github.com/gtxpit/frontend-project-44)
 
+5 консольных игр для тренировки ума: чётное/нечётное, калькулятор, НОД, прогрессия, простое число.
+
+- **Стек:** Node.js, JavaScript, ESLint
+- **Навыки:** работа с пользовательским вводом, модульная структура, публикация npm-пакета
+- **Установка:** `make install`, запуск — `brain-calc`, `brain-progression` и др.
+
+🔗 **[Репозиторий](https://github.com/gtxpit/frontend-project-44)**
 ---
 
 ## 📊 Статистика
