@@ -40,11 +40,6 @@
 🔗 **[Репозиторий](https://github.com/gtxpit/frontend-project-44)**
 ---
 
-## 📊 Статистика
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gtxpit&show_icons=true&theme=dark&count_private=true)
-
----
 ---
 
 ## 🏆 Достижения
