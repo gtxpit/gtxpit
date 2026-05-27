@@ -45,12 +45,6 @@
 
 ---
 
-## 🏆 Трофеи
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=gtxpit&theme=darkhub&row=1)
-
----
-
 ## 🧠 Моя философия
 
 > **«Зашквар — ничего не делать и ныть. А я сделал. Горжусь.»**
