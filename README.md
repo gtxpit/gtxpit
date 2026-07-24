@@ -28,7 +28,7 @@
 
 ### 🌤️ [Weather App](https://github.com/gtxpit/weather)
 Погода и прогноз на 5 дней по городу или геолокации.
-- **Стек:** HTML, CSS, TYPESCRIPT, OpenWeatherMap API, LocalStorage, Vite, Vercel
+- **Стек:** HTML, CSS, Typescript, OpenWeatherMap API, LocalStorage, Vite, Vercel
 - **Фичи:** Адаптив, тёмная тема, избранные города, автодеплой.
 
 ### 💱 [Currency Converter](https://github.com/gtxpit/currencies)
