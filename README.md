@@ -1,4 +1,4 @@
-<img width="800" height="800" alt="weather-svgrepo-com" src="https://github.com/user-attachments/assets/34062830-f086-4205-9f3d-939822b1c047" /># 👋 Привет, я Пётр
+# 👋 Привет, я Пётр
 
 ## 🧑‍💻 О себе
 
