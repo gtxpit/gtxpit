@@ -45,6 +45,10 @@
 - **Стек:** Node.js, vk-io, Hugging Face Inference API
 - **Фичи:** Интерактивная клавиатура, нарезка длинных сообщений, статус "печатает"
 
+### 🚫 [YouTube Shorts Blocker](https://github.com/gtxpit/extension)
+Ультра-легковесное браузерное расширение для полной блокировки Shorts на YouTube.
+- **Стек:** JavaScript (Manifest V3), Chrome Extensions API
+
 ---
 
 ## 🧠 Моя философия
@@ -53,4 +57,4 @@
 
 ---
 
-*Последнее обновление: 25.07.2026*
+*Последнее обновление: 20.09.2026*
