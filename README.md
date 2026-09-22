@@ -11,7 +11,7 @@
 
 ##  Технологии и инструменты
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vite,git,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vite,git,vercel&theme=dark" />
 </p>
 
 
