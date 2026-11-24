@@ -1,10 +1,8 @@
-<div align="center">
+ <div align="center">
 
 # Пётр · Frontend-разработчик
 
-**Делаю быстрые и аккуратные веб-приложения на TypeScript**
-
-Новосибирск · Учусь В [Hexlet](https://hexlet.io)
+Новосибирск · Учусь в [Hexlet](https://hexlet.io)
 
 [![Telegram](https://img.shields.io/badge/Telegram-@repnikovv-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/repnikovv)
 [![VK](https://img.shields.io/badge/VK-repnik00v-0077FF?style=flat-square&logo=vk&logoColor=white)](https://vk.ru/repnik00v)
