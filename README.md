@@ -1,51 +1,40 @@
-# 👋 Привет, я Пётр
+<div align="center">
 
-## 🧑‍💻 О себе
+# Пётр · Frontend-разработчик
 
-Я начинающий **frontend-разработчик** из Новосибирска.
+**Делаю быстрые и аккуратные веб-приложения на TypeScript**
 
-- Мой главный проект: **[Weather App](https://weather.layero.app/)** — реальное веб-приложение с API, геолокацией, избранным и автодеплоем.
--  Сейчас изучаю: **JavaScript**, архитектуру веб-приложений.
+Новосибирск · Учусь на [Hexlet](https://hexlet.io)
 
----
+[![Telegram](https://img.shields.io/badge/Telegram-@repnikovv-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/repnikovv)
+[![VK](https://img.shields.io/badge/VK-repnik00v-0077FF?style=flat-square&logo=vk&logoColor=white)](https://vk.ru/repnik00v)
 
-##  Технологии и инструменты
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vite,git,vercel&theme=dark" />
-</p>
+</div>
 
+## О себе
 
-##  Мои проекты
+Начинающий frontend-разработчик. Люблю доводить проекты до рабочего состояния: с API, адаптивной вёрсткой и автодеплоем. Сейчас углубляюсь в TypeScript и архитектуру веб-приложений. Открыт к стажировкам и junior-позициям.
 
-### [Weather App](https://github.com/gtxpit/weather)
-Погода и прогноз на 5 дней по городу или геолокации.
-- **Стек:** HTML, CSS, Typescript, OpenWeatherMap API, LocalStorage, Vite, Vercel
-- **Фичи:** Адаптив, тёмная тема, избранные города, автодеплой.
+Главный проект: [Weather App](https://weather.layero.app/)
 
-###  [Currency Converter](https://github.com/gtxpit/currencies)
-Простой конвертер валют с актуальными курсами.
-- **Стек:** HTML, CSS, JS, ExchangeRate API
+## Стек
 
-### [Brain Games](https://github.com/gtxpit/frontend-project-44)
-Набор из 5 консольных игр для тренировки ума.
-- **Стек:** Node.js, JavaScript, ESLint
-- **Игры:** чёт/нечет, калькулятор, НОД, прогрессия, простое число
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### [VK AI Bot](https://github.com/gtxpit/vk-ai-bot)
-Чат-бот для ВКонтакте, отвечающий на вопросы через нейросеть.
-- **Стек:** Node.js, vk-io, Hugging Face Inference API
-- **Фичи:** Интерактивная клавиатура, нарезка длинных сообщений, статус "печатает"
+## Контакты
 
-### [Mini YouTube Shorts Blocker](https://github.com/gtxpit/extension)
-Ультра-легковесное браузерное расширение для полной блокировки Shorts на YouTube.
-- **Стек:** JavaScript (Manifest V3), Chrome Extensions API
+Telegram: [@repnikovv](https://t.me/repnikovv) · VK: [repnik00v](https://vk.ru/repnik00v)
 
----
+<div align="center">
 
-## Моя философия
+*«Зашквар — ничего не делать и ныть. А я сделал. Горжусь.»*
 
-> **«Зашквар — ничего не делать и ныть. А я сделал. Горжусь.»**
-
----
-
-*Последнее обновление: 20.09.2026*
+</div>
